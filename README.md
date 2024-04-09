@@ -13,7 +13,7 @@ Follow these steps to deploy the extension using Google Developer mode:
 
 Clone this repository to your local machine:
 
-[![Clone in VSCode](https://img.shields.io/badge/Clone%20in-VSCode-blue.svg)](vscode://clone?url=https://github.com/Rhushya/simple-adblocker-using-json.git)
+by running the command  <br>git clone https://github.com/Rhushya/simple-adblocker-using-json.git</br>
 
 
 
