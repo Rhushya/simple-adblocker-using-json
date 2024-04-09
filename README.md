@@ -13,7 +13,8 @@ Follow these steps to deploy the extension using Google Developer mode:
 
 Clone this repository to your local machine:
 
-git clone (https://github.com/Rhushya/simple-adblocker-using-json.git)
+[Clone Repository in Visual Studio Code](vscode://vscode.github-authentication/did-authenticate?windowId=workbench.action.files.openFolder&folderUri=https%3A%2F%2Fgithub.com%2FRhushya%2Fsimple-adblocker-using-json.git)
+
 
 
 ### 2. Load the Extension in Chrome
